@@ -1,0 +1,1 @@
+# Aetherum Forum — Animated Forum Scaffold\n\nSee README in project for usage.
